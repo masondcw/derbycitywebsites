@@ -122,7 +122,7 @@ a{
 }
 .hero-border img:nth-child(3){
   height: inherit;
-  filter: invert(36%) sepia(20%) saturate(2183%) hue-rotate(336deg) brightness(93%) contrast(91%);
+  filter: invert(44%) sepia(67%) saturate(5682%) hue-rotate(2deg) brightness(103%) contrast(104%);
 }
 
 .whyus{
@@ -175,7 +175,7 @@ a{
   color: #289937;
 }
 .bxs-heart-circle{
-  color: #aa4d25;
+  color: #ff4d00;
 }
 
 .card-hero{
